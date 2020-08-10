@@ -224,7 +224,7 @@ def pilih():
 	elif unikers =="2":
 		os.system('clear')
 		print logo
-		print " \033[1;36;40m◄══════════════════Asim-Pardasi══════════════════►\n"
+		print " \033[1;36;40m◄══════════════════Nazmul_Tufan══════════════════►\n"
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -297,10 +297,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;92m◄══════════════════CH══════════════════►"
+	print "   \033[1;92m◄══════════════════Tufan══════════════════►"
 
 	jalan('          \033[1;91mTufan start Hacking Wait...')
-	print  "  \033[1;92m ◄══════════════════Asim_CH══════════════════►" 
+	print  "  \033[1;92m ◄══════════════════Nazmul_Tufan══════════════════►" 
 
 	def main(arg):
 		global cekpoint,oks
@@ -519,7 +519,7 @@ def pilih_super():
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬•◈\033[1;91mNazmul-Tufan\033[1;95m◈•▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By Nazmul-Tufan--•◈•---»" #Dev:Nazmul-Tufan
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 BSF.py)↩\033[1;97m....'
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 BFS.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
          ┈┈┈╲┈┈┈┈╱┈┈┈
